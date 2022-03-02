@@ -211,6 +211,8 @@ namespace personelDb
                 txtrolid.Text = p.rolid;
 
             }
+
         }
+        // personelDb tamamlandı
     }
 }
